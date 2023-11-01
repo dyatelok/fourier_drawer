@@ -3,11 +3,17 @@
 This rust progran activity approximates a user-drawn path with a complex Fourier series. It is inspired by the "But what is a Fourier series? From heat flow to circle drawings" video by 3Blue1Brown.
 
 
-https://github.com/dyatelok/fourier_drawer/assets/92210438/2bfb613b-8ea3-4645-96f3-000ffe5320f5
 
-https://github.com/dyatelok/fourier_drawer/assets/92210438/a8b33f57-f9fe-41f3-9081-f446687ca8d6
+https://github.com/dyatelok/fourier_drawer/assets/92210438/e67150ec-bf6b-4efb-974d-ca2891ed7f0e
 
-https://github.com/dyatelok/fourier_drawer/assets/92210438/2060975b-9dc8-4dd3-9e25-e0a7c43dc3cb
+
+
+https://github.com/dyatelok/fourier_drawer/assets/92210438/5b2c290e-3dcb-4f59-a31d-cc5059b50255
+
+
+
+https://github.com/dyatelok/fourier_drawer/assets/92210438/c107d5fe-4a50-4b1e-b8ec-51ed1d08dd30
+
 
 
 Run with ```cargo run --release```
